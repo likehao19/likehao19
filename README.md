@@ -1,9 +1,8 @@
 <h1>👋 Hey! Nice to see you.</h1>
 
 <p>Welcome to my page!<br/>
-我是 <b>likehao</b>，做本地优先的桌面软件，目前在 <img src="https://flagcdn.com/16x12/cn.png" width="16" alt="中国"/> <b>中国</b>。<br/>
-写作、预览、远程连接和数据库都在本机完成，文件不交给账号体系。<br/>
-<i>I build local-first desktop software. Writing, preview, remote access, and databases run on the machine in front of you.</i></p>
+I'm <b>likehao</b>, a developer building local-first desktop software, currently based in <img src="https://flagcdn.com/16x12/cn.png" width="16" alt="China"/> <b>China</b>.<br/>
+Writing, preview, remote access, and databases all run on the machine in front of you. Files stay out of any account system.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -36,28 +35,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/likehao19/InkNote"><b>InkNote · 墨笺</b></a></td>
+      <td><a href="https://github.com/likehao19/InkNote"><b>InkNote</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/likehao19/InkNote?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/likehao19/InkNote?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/likehao19/InkNote?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/likehao19/InkNote?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/likehao19/SpacePreview"><b>瞬览 SpacePreview</b></a></td>
+      <td><a href="https://github.com/likehao19/SpacePreview"><b>SpacePreview</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/likehao19/SpacePreview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/likehao19/SpacePreview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/likehao19/SpacePreview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/likehao19/SpacePreview?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/likehao19/Orbiterm"><b>Orbiterm SSH / SFTP</b></a></td>
+      <td><a href="https://github.com/likehao19/Orbiterm"><b>Orbiterm</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/likehao19/Orbiterm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/likehao19/Orbiterm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/likehao19/Orbiterm?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/likehao19/Orbiterm?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/likehao19/XuanCore-Studio"><b>玄枢 XuanCore Studio</b></a></td>
+      <td><a href="https://github.com/likehao19/XuanCore-Studio"><b>XuanCore Studio</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/likehao19/XuanCore-Studio?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/likehao19/XuanCore-Studio?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/likehao19/XuanCore-Studio?style=flat-square&labelColor=343b41"/></td>
@@ -68,17 +67,17 @@
 
 <h3>What I'm building</h3>
 <ul>
-  <li><a href="https://inknote.likh.cn/"><b>🔥 InkNote · 墨笺</b></a><br/><i>所见即所得的 Markdown 编辑器。排版在书写时呈现，磁盘上始终是标准 Markdown。</i></li>
-  <li><a href="https://github.com/likehao19/SpacePreview"><b>🔥 瞬览 SpacePreview</b></a><br/><i>在资源管理器或 Finder 里按快捷键预览文档、图片和压缩包，不必先打开对应软件。</i></li>
-  <li><a href="https://github.com/likehao19/Orbiterm"><b>🔥 Orbiterm</b></a><br/><i>SSH / SFTP 客户端。终端是真实会话，文件传输走独立连接，密码和私钥口令只留在这一次连接里。</i></li>
-  <li><a href="https://github.com/likehao19/XuanCore-Studio"><b>玄枢 XuanCore Studio</b></a><br/><i>数据库工作台。安装包不含驱动；驱动是独立的签名包，校验通过后才安装。</i></li>
-  <li><a href="https://github.com/likehao19/toolhub"><b>ToolHub</b></a><br/><i>笔记、日程、密码与本地 AI 助手。写操作执行前需要确认。</i></li>
-  <li><a href="https://github.com/likehao19/DeepSeek-Harness-Desktop"><b>DeepSeek Harness Desktop</b></a><br/><i>DeepSeek Harness 的桌面壳，Node sidecar 原样运行，对上游零改造。</i></li>
+  <li><a href="https://inknote.likh.cn/"><b>🔥 InkNote</b></a><br/><i>A WYSIWYG Markdown editor. Formatting appears as you write, and the file on disk stays standard Markdown.</i></li>
+  <li><a href="https://github.com/likehao19/SpacePreview"><b>🔥 SpacePreview</b></a><br/><i>Preview documents, images, and archives with a shortcut in Explorer or Finder, without opening the full app.</i></li>
+  <li><a href="https://github.com/likehao19/Orbiterm"><b>🔥 Orbiterm</b></a><br/><i>An SSH / SFTP client. The terminal is a real session, file transfer uses its own connection, and passwords stay in that session only.</i></li>
+  <li><a href="https://github.com/likehao19/XuanCore-Studio"><b>XuanCore Studio</b></a><br/><i>A database workbench. The installer ships without drivers. Each driver is a separate signed package, installed only after verification.</i></li>
+  <li><a href="https://github.com/likehao19/toolhub"><b>ToolHub</b></a><br/><i>Notes, calendar, passwords, and a local AI assistant. Every write is confirmed before it runs.</i></li>
+  <li><a href="https://github.com/likehao19/DeepSeek-Harness-Desktop"><b>DeepSeek Harness Desktop</b></a><br/><i>A desktop shell for DeepSeek Harness. The Node sidecar runs as-is, with no changes upstream.</i></li>
 </ul>
 
 <h3>Now</h3>
-<p>桌面产品用 <b>Tauri 2</b> 和 <b>Rust</b>。界面是 TypeScript，按产品选用 React、Vue 或 Solid。<br/>
-更早的工作是 Spring Boot、Vue 和 Java Web。当前主要在做 <a href="https://github.com/likehao19/InkNote"><b>InkNote</b></a>。</p>
+<p>Desktop apps are built with <b>Tauri 2</b> and <b>Rust</b>. The interface is TypeScript, using React, Vue, or Solid depending on the product.<br/>
+Earlier work was Spring Boot, Vue, and Java Web. Right now the focus is <a href="https://github.com/likehao19/InkNote"><b>InkNote</b></a>.</p>
 
 <h3>Where to find me</h3>
 <p>
@@ -88,5 +87,5 @@
 </p>
 
 ------------
-<p align="center">产品问题请开到对应仓库的 Issues。<br/>本地优先。文件留在你的机器上。</p>
+<p align="center">Open product issues on the matching repository.<br/>Local-first. Files stay on your machine.</p>
 <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/likehao19/likehao19?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/likehao19/likehao19?style=flat-square&labelColor=343b41"/></p>
